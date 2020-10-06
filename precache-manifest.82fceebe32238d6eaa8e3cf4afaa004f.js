@@ -1,10 +1,10 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "3916d736db24531522f2735ba267090d",
+    "revision": "1ac3206b54b2d7c5171e70fcee55db1f",
     "url": "/word-count/index.html"
   },
   {
-    "revision": "3661bfb89fcaae344285",
+    "revision": "abc3d300c7c1dbc67d61",
     "url": "/word-count/static/css/main.f6cffc85.chunk.css"
   },
   {
@@ -16,8 +16,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/word-count/static/js/2.0bf7bebe.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "3661bfb89fcaae344285",
-    "url": "/word-count/static/js/main.459d1a2e.chunk.js"
+    "revision": "abc3d300c7c1dbc67d61",
+    "url": "/word-count/static/js/main.0ed690c6.chunk.js"
   },
   {
     "revision": "2bb8a8d3552eed1201ef",
