@@ -1,14 +1,14 @@
 {
   "files": {
     "main.css": "/word-count/static/css/main.f6cffc85.chunk.css",
-    "main.js": "/word-count/static/js/main.0ed690c6.chunk.js",
-    "main.js.map": "/word-count/static/js/main.0ed690c6.chunk.js.map",
+    "main.js": "/word-count/static/js/main.2b8eea22.chunk.js",
+    "main.js.map": "/word-count/static/js/main.2b8eea22.chunk.js.map",
     "runtime-main.js": "/word-count/static/js/runtime-main.4c6aab34.js",
     "runtime-main.js.map": "/word-count/static/js/runtime-main.4c6aab34.js.map",
     "static/js/2.0bf7bebe.chunk.js": "/word-count/static/js/2.0bf7bebe.chunk.js",
     "static/js/2.0bf7bebe.chunk.js.map": "/word-count/static/js/2.0bf7bebe.chunk.js.map",
     "index.html": "/word-count/index.html",
-    "precache-manifest.82fceebe32238d6eaa8e3cf4afaa004f.js": "/word-count/precache-manifest.82fceebe32238d6eaa8e3cf4afaa004f.js",
+    "precache-manifest.826083ae2f19de56daed70e70f5201c2.js": "/word-count/precache-manifest.826083ae2f19de56daed70e70f5201c2.js",
     "service-worker.js": "/word-count/service-worker.js",
     "static/css/main.f6cffc85.chunk.css.map": "/word-count/static/css/main.f6cffc85.chunk.css.map",
     "static/js/2.0bf7bebe.chunk.js.LICENSE.txt": "/word-count/static/js/2.0bf7bebe.chunk.js.LICENSE.txt"
@@ -17,6 +17,6 @@
     "static/js/runtime-main.4c6aab34.js",
     "static/js/2.0bf7bebe.chunk.js",
     "static/css/main.f6cffc85.chunk.css",
-    "static/js/main.0ed690c6.chunk.js"
+    "static/js/main.2b8eea22.chunk.js"
   ]
 }
