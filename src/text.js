@@ -33,15 +33,15 @@ function fillCanvas(keys,counts){
                         "have","by", "shall", "do", "would", "thy", "our", "how", "their", "they", "am", "very", "so", "more", "good", "come"]
     var canvas = document.getElementById("#myCanvas");
     var ctx = canvas.getContext("2d");
-
+    var intensity = 1;
     for(var i=0;i<keys.length;i++){
         if(!removeList.includes(keys[i])){
             var fontSize = counts[keys[i]]*3;
-            var intensity = 1;
+            intensity = counts[keys[i]]/30
             ctx.font = `bold ${fontSize}px Impact`;
             ctx.fillStyle = `rgb(0,77,154, ${intensity} )`;
             ctx.fillText(keys[i],randomInt(960-ctx.measureText(keys[i]).width),randomInt(600));
-            intensity -= 0.2;
+            
         }
        
        
