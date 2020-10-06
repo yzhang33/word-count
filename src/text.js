@@ -30,7 +30,7 @@ function wordCount(tokens){
 function fillCanvas(keys,counts){
     var removeList = ["the","i","to","and", "of", "my", "in", "a", "is", "you", "this", "it", "his", "not",
                         "but", "", "be","me", "he", "your", "with","for", "let", "on", "what", "are", "if", "him", "from", "will", 
-                        "have","by", "shall", "do", "would", "thy", "our", "how", "their", "they", "am", "very", "so", "more", "good", "come"]
+                        "have","by", "shall", "do", "would", "thy", "our", "how", "their", "they", "am", "very", "so"]
     var canvas = document.getElementById("#myCanvas");
     var ctx = canvas.getContext("2d");
 
